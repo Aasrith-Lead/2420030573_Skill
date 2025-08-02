@@ -1,6 +1,6 @@
 package OOPS;
 
-public class AutoCast {
+public class ManualCast {
 	public static void main(String args[]) {
 		
 		double a=10.568;
@@ -10,4 +10,5 @@ public class AutoCast {
 		System.out.println("The double num is : "+b);
 	}
 }
+
 
